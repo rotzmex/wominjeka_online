@@ -223,7 +223,7 @@ header::before {
 }
 
 #about .container > div:nth-child(2) {
-  background-image: url(/assets/images/IMG_20231209_134433_314.jpg);
+  background-image: url(assets/images/IMG_20231209_134433_314.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -307,16 +307,16 @@ header::before {
 }
 
 .post1 .blog-post-img {
-  background-image: url(/assets/images/20230706_154042.jpg);
+  background-image: url(assets/images/20230706_154042.jpg);
 }
 .post2 .blog-post-img {
-  background-image: url(/assets/images/20230608_162110.jpg);
+  background-image: url(assets/images/20230608_162110.jpg);
 }
 .post3 .blog-post-img {
-  background-image: url(/assets/images/20231211_151346.jpg);
+  background-image: url(assets/images/20231211_151346.jpg);
 }
 .post4 {
-  background-image: url(/assets/images/20230727_163847.jpg);
+  background-image: url(assets/images/20230727_163847.jpg);
 }
 
 .posts .blog-post-img,
